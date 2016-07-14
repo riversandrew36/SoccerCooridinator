@@ -77,7 +77,7 @@ func welcomeLetter() {
     }
     
     for (key, value) in raptors {
-        print("Good afternoon \(value[2]), We are pleased to have \(key) playing for the Sharks this year! Our first practice will be on \(raptorsPractice). Can't wait to meet you and have a fantastic year!")
+        print("Good afternoon \(value[2]), We are pleased to have \(key) playing for the Raptors this year! Our first practice will be on \(raptorsPractice). Can't wait to meet you and have a fantastic year!")
     }
 }
 
